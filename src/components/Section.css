@@ -1,0 +1,315 @@
+.nine_01{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    /* // gap:10px; */
+    width: 105px;
+height: 40px;
+flex-shrink: 0;
+/* background-color:black; */
+border-radius:8px;
+color: black;
+padding: 0px 10px;
+margin: 50px 47%;
+border: 2px solid black;
+  }
+.nine_01:hover{
+    cursor: pointer;
+}
+.ten{
+    /* background-color: brown; */
+    width: 1168;
+    height: 382px;
+    margin: 20px 100px;
+    display: flex;
+    flex-direction: row;
+}
+.eleven{
+    width:50%;
+    height: 340px;
+    /* background-color: black; */
+    transition: 0.3s ease-in-out;
+
+    
+}
+.eleven:hover{
+    
+        transform: translateX(0.3rem) translateY(-1rem);
+        /* box-shadow: rgba(0, 0, 0, 0.35) 10px 5px 15px; */
+        /* transition: 0.3s ease-in-out; */
+
+}
+.twelve{
+    width:50%;
+    height: 340px;
+    /* background-color: orange; */
+}
+#twelve_1{
+    /* float: right; */
+    /* color:green; */
+    /* position:relative; */
+    /* right:100px; */
+    /* left:55%; */
+
+    color: #202020;
+text-align: right;
+font-size: 52px;
+font-family: DM Serif Display;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#thirteen_1{
+    /* position:relative; */
+    /* right:100px; */
+    /* left:5%; */
+
+    color: #7D7D7D;
+text-align: right;
+font-size: 20px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: 400;
+line-height: 132.5%;
+}
+#fourteen_1{
+    /* float: right; */
+    /* color:green; */
+    /* position:relative; */
+    /* right:100px; */
+    /* left:55%; */
+
+    color: #202020;
+    text-align: right;
+    font-size: 52px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#fifteen_1{
+    /* position:relative; */
+    /* right:100px; */
+    /* left:5%; */
+
+    color: #7D7D7D;
+    text-align: right;
+    font-size: 20px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.5%;
+}
+#sixteen_1{
+    color: #7D7D7D;
+    text-align: left;
+    font-size: 20px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.5%;
+}
+#seventeen_1{
+    color: #7D7D7D;
+    text-align: left;
+    font-size: 20px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.5%;
+}
+#eighteen_1{
+    color: #202020;
+    text-align: left;
+    font-size: 52px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#nineteen_1{
+    color: #202020;
+    text-align: left;
+    font-size: 52px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.text3{
+    color: #202020;
+    font-size: 48px;
+    font-family: DM Serif display;
+    letter-spacing: 1.26px;
+    line-height: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+.text4{
+    color: #202020;
+    font-size: 18px;
+    font-family: DM Serif display;
+    letter-spacing: 1.26px;
+    line-height: normal;
+    font-style: normal;
+    font-weight: 400;
+}
+#seven_2{
+    color: #305444;
+font-size: 59px;
+font-family: DM Serif Display;
+font-style: normal;
+font-weight: 400;
+line-height: 132.5%;
+}
+#seven_3{
+    color: #305444;
+font-size: 59px;
+font-family: DM Serif Display;
+font-style: normal;
+font-weight: 400;
+line-height: 132.5%;
+}
+@media screen and (min-width: 280px) and (max-width: 980px) {
+    #seven_2{
+    color: #305444;
+    font-size: 45px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.5%;
+    }
+    .ten{
+        /* background-color: brown; */
+        width:100%;
+        height: 352px;
+        margin: 20px 0px;
+        display: flex;
+        flex-direction: row;
+    }
+    .eleven{
+        width:50%;
+        height: 340px;
+        /* background-color: black; */
+    }
+    .twelve{
+        width:50%;
+        height: 340px;
+        /* background-color: orange; */
+    }
+    .twelve_2{
+        width: 100%;
+        height: 80%;
+    }
+    .text3{
+        color: #202020;
+        font-size: 28px;
+        font-family: DM Serif display;
+        letter-spacing: 1.26px;
+        line-height: normal;
+        font-style: normal;
+        font-weight: 400;
+    }
+    .text4{
+        color: #202020;
+        font-size: 8px;
+        font-family: DM Serif display;
+        letter-spacing: 1.26px;
+        line-height: normal;
+        font-style: normal;
+        font-weight: 400;
+    }
+    #sixteen_1{
+        color: #7D7D7D;
+        text-align: left;
+        font-size: 13px;
+        font-family: DM Sans;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 132.5%;
+    }
+    #seventeen_1{
+        color: #7D7D7D;
+        text-align: left;
+        font-size: 13px;
+        font-family: DM Sans;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 132.5%;
+    }
+    #eighteen_1{
+        color: #202020;
+        text-align: left;
+        font-size: 32px;
+        font-family: DM Serif Display;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    #nineteen_1{
+        color: #202020;
+        text-align: left;
+        font-size: 32px;
+        font-family: DM Serif Display;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }#twelve_1{
+       
+    
+        color: #202020;
+    text-align: right;
+    font-size: 32px;
+    font-family: DM Serif Display;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+    #thirteen_1{
+     
+    
+        color: #7D7D7D;
+    text-align: right;
+    font-size: 13px;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132.5%;
+    }
+    #fourteen_1{
+       
+    
+        color: #202020;
+        text-align: right;
+        font-size: 32px;
+        font-family: DM Serif Display;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    #fifteen_1{
+    
+        color: #7D7D7D;
+        text-align: right;
+        font-size: 13px;
+        font-family: DM Sans;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 132.5%;
+    }
+    .nine_01{
+        display:flex;
+        flex-direction:column;
+        justify-content:space-evenly;
+        /* // gap:10px; */
+        width: 105px;
+    height: 40px;
+    flex-shrink: 0;
+    /* background-color:black; */
+    border-radius:8px;
+    color: black;
+    padding: 0px 10px;
+    margin: 50px 40%;
+    border: 2px solid black;
+      }
+}
