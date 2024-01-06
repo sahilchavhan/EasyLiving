@@ -1,3 +1,5 @@
+![Screenshot](src/assets/apple.png)
+
 # EasyLiving Website
 
 Welcome to the EasyLiving website repository! This project is a responsive, modern, and attractive website created using React, HTML, CSS, and JavaScript. EasyLiving is designed to provide a user-friendly experience for exploring various aspects of comfortable living.
