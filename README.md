@@ -1,4 +1,9 @@
-![Screenshot](src/assets/apple.png)
+![Screenshot](src/assets/Screenshot-1.png)
+![Screenshot](src/assets/Screenshot-2.png)
+![Screenshot](src/assets/Screenshot-3.png)
+![Screenshot](src/assets/Screenshot-4.png)
+![Screenshot](src/assets/Screenshot-5.png)
+![Screenshot](src/assets/Screenshot-6.png)
 
 # EasyLiving Website
 
