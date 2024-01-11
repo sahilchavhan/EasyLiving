@@ -33,8 +33,11 @@ License
 ## Technologies Used
 
 **React**: The project is developed using the React library for building dynamic user interfaces.
+
 **HTML**: The structure of the web pages is created using HTML.
+
 **CSS**: Styling and layout are handled with CSS to achieve a polished and visually appealing design.
+
 **JavaScript**: The website includes JavaScript for interactive features and dynamic content.
 
 ## Installation
